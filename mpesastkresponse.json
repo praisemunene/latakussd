@@ -1,0 +1,100 @@
+{}{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "1a32-4986-81f8-26dacfcbf00773014690",
+            "CheckoutRequestID": "ws_CO_23022024022503967712982944",
+            "ResultCode": 1037,
+            "ResultDesc": "DS timeout user cannot be reached"
+        }
+    }
+}{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "3fec-4d4e-8899-f6343499627443456085",
+            "CheckoutRequestID": "ws_CO_23022024023031292712982944",
+            "ResultCode": 1037,
+            "ResultDesc": "DS timeout user cannot be reached"
+        }
+    }
+}{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "f1e8-4d0f-a681-489d3f41589e76272747",
+            "CheckoutRequestID": "ws_CO_23022024023231817712982944",
+            "ResultCode": 1037,
+            "ResultDesc": "DS timeout user cannot be reached"
+        }
+    }
+}{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "6b35-466c-bec6-418f91c4479a49290316",
+            "CheckoutRequestID": "ws_CO_23022024023501421712982944",
+            "ResultCode": 2001,
+            "ResultDesc": "The initiator information is invalid."
+        }
+    }
+}{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "6b35-466c-bec6-418f91c4479a49291939",
+            "CheckoutRequestID": "ws_CO_23022024024101413712982944",
+            "ResultCode": 1037,
+            "ResultDesc": "DS timeout user cannot be reached"
+        }
+    }
+}{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "6b35-466c-bec6-418f91c4479a49292742",
+            "CheckoutRequestID": "ws_CO_23022024024342713712982944",
+            "ResultCode": 1037,
+            "ResultDesc": "DS timeout user cannot be reached"
+        }
+    }
+}{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "fdf3-4068-b0a9-6cfe5aaad5f349352539",
+            "CheckoutRequestID": "ws_CO_23022024024816049712982944",
+            "ResultCode": 1037,
+            "ResultDesc": "DS timeout user cannot be reached"
+        }
+    }
+}{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "8bec-40c2-b196-6e4107441cba67134091",
+            "CheckoutRequestID": "ws_CO_23022024025226088712982944",
+            "ResultCode": 1037,
+            "ResultDesc": "DS timeout user cannot be reached"
+        }
+    }
+}{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "db57-40e1-af85-2424fab5a2e649371700",
+            "CheckoutRequestID": "ws_CO_23022024025638948712982944",
+            "ResultCode": 1037,
+            "ResultDesc": "DS timeout user cannot be reached"
+        }
+    }
+}{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "1a32-4986-81f8-26dacfcbf00773028080",
+            "CheckoutRequestID": "ws_CO_23022024030359807712982944",
+            "ResultCode": 1037,
+            "ResultDesc": "DS timeout user cannot be reached"
+        }
+    }
+}{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "51dd-4635-bbb6-170aeb781b9265049240",
+            "CheckoutRequestID": "ws_CO_23022024031008590740690592",
+            "ResultCode": 1,
+            "ResultDesc": "The balance is insufficient for the transaction."
+        }
+    }
+}
